@@ -12,7 +12,7 @@ To be developed:
   - design is available
   - this implements the publishing/lookup services of the Knowledge Space vision above
 - Nanopub◀-▶ActivityPub (MIT license)
-  - connecting the knowledge graph contributions in our ecosystem with the plain-text-focussed contributions in ActivityPub world
+  - bidirectional module connecting the knowledge graph contributions in our ecosystem with the plain-text-focussed contributions in ActivityPub world
 
 To be used:
 
