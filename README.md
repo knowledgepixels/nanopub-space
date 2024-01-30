@@ -1,4 +1,6 @@
-# NGI Zero Core Application
+# Nanopub Space
+
+Project application for {NGI Zero Core](https://nlnet.nl/core/).
 
 ## Vision
 
