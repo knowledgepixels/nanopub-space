@@ -13,7 +13,7 @@ The Nanopub Space is a first step towards the implementation of the vision of a 
 Software to be developed:
 
 - [Nanopub Registry](https://github.com/knowledgepixels/nanopub-registry) (MIT license)
-  - design is available
+  - design draft is available
   - implements the publishing/lookup services of the Knowledge Space vision above
   - once available in a stable version, Nanopub Query (see below) will connect to the Nanopub Registry instances to gather the data on which the Nanopub Query instances can then run more complex queries on
 - Nanopub<>ActivityPub (MIT license)
