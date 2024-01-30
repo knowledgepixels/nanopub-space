@@ -1,6 +1,6 @@
 # Nanopub Space
 
-Project application for {NGI Zero Core](https://nlnet.nl/core/).
+Project application for [NGI Zero Core](https://nlnet.nl/core/).
 
 ## Vision
 
