@@ -6,9 +6,9 @@
 
 ## Software
 
-To be developed in this project:
+To be developed:
 
-- [Nanopub Registry](https://github.com/knowledgepixels/nanopub-registry) (MIT license): design available
+- [Nanopub Registry](https://github.com/knowledgepixels/nanopub-registry) (MIT license); design is available; this implements the publishing/lookup services of the Knowledge Space vision above
 - Nanopub◀-▶ActivityPub (MIT license)
 
 To be used:
