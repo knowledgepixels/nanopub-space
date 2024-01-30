@@ -8,10 +8,11 @@
 
 To be developed in this project:
 
-- Nanopub Registry
-- Nanopub◀-▶ActivityPub
+- [Nanopub Registry](https://github.com/knowledgepixels/nanopub-registry) (MIT license): design available
+- Nanopub◀-▶ActivityPub (MIT license)
 
 To be used:
 
-- Nanopub Query
-- nanopub-java
+- [Nanopub Query](https://github.com/knowledgepixels/nanopub-query) (AGPL license)
+- [Nanodash](https://github.com/knowledgepixels/nanodash) (AGPL license)
+- [nanopub-java](https://github.com/Nanopublication/nanopub-java) (MIT license)
