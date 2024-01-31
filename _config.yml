@@ -8,7 +8,7 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-remote_theme: pages-themes/dinky@v0.2.0
+remote_theme: knowledgepixels/pages-theme
 plugins:
 - jekyll-remote-theme
 title: "Nanopub Space"
