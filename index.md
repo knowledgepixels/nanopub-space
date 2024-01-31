@@ -10,7 +10,7 @@ The Nanopub Space is a first step towards the implementation of the vision of a 
 
 ## Software
 
-Software to be developed:
+These pieces of software are to be developed within the project:
 
 - [Nanopub Registry](https://github.com/knowledgepixels/nanopub-registry) (MIT license)
   - design draft available
@@ -19,7 +19,7 @@ Software to be developed:
 - Nanopub<>ActivityPub (MIT license)
   - bidirectional module connecting the knowledge graph contributions in our ecosystem with the plain-text-focussed contributions in ActivityPub world
 
-Software to be used:
+These pieces of software will be used:
 
 - [Nanopub Query](https://github.com/knowledgepixels/nanopub-query) (AGPL license)
   - implements the query services of the Knowledge Space vision above
