@@ -5,7 +5,7 @@ We are currently in the stage of applying for funding for this project.
 
 ## Vision
 
-The Nanopub Space is a first step towards the implementation of the vision of a [Knowledge Space](https://w3id.org/knowledge-space/).
+The Nanopub Space is a big step towards the implementation of the vision of a [Knowledge Space](https://w3id.org/knowledge-space/).
 
 
 ## Ecosystem
