@@ -1,6 +1,6 @@
 # Nanopub Space
 
-Funding for this project applied for at [NGI Zero Core](https://nlnet.nl/core/).
+We are currently in the stage of applying for funding for this project.
 
 
 ## Vision
