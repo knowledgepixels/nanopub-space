@@ -8,6 +8,15 @@ We are currently in the stage of applying for funding for this project.
 The Nanopub Space is a first step towards the implementation of the vision of a [Knowledge Space](https://w3id.org/knowledge-space/).
 
 
+## Ecosystem
+
+This project takes the existing nanopublication ecosystem as a starting point:
+
+- [Nanopub Monitor](https://monitor.knowledgepixels.com/)
+
+This project will make this ecosystem **scalable, trust-aware, and resilient**.
+
+
 ## Software
 
 These pieces of software are to be developed within the project:
