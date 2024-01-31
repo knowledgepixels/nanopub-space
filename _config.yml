@@ -12,6 +12,6 @@ remote_theme: knowledgepixels/pages-theme
 plugins:
 - jekyll-remote-theme
 title: "Nanopub Space"
-description: "Nanopub Space: project application for NGI Zero Core"
+description: "Nanopub Space project application"
 logo: logo.svg
-footer: "This page is provided by <a href=\"https://knowledgepixels.com\">Knowledge Pixels</a>"
+footer: "This page is provided by <a href=\"https://knowledgepixels.com\">Knowledge Pixels</a>."
