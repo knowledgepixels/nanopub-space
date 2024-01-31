@@ -24,26 +24,26 @@ This project will make this ecosystem **scalable, trust-aware, and resilient**.
 These pieces of software are to be developed within the project:
 
 - [Nanopub Registry](https://github.com/knowledgepixels/nanopub-registry) (MIT license)
-  - design draft available
-  - implements the publishing/lookup services of the Knowledge Space vision above
-  - adds contribution-type-based federation, community-based trust networks, and resilience mechansism
-  - will replace the Nanopub Server (see below)
+  - Design draft available
+  - Implements the publishing/lookup services of the Knowledge Space vision above
+  - Adds contribution-type-based federation, community-based trust networks, and resilience mechansism
+  - Will replace the Nanopub Server (see below)
   - Nanopub Query (see below) will connect to the Nanopub Registry instances to gather the data on which the Nanopub Query instances can then run more complex queries
 - Nanopub<>ActivityPub (MIT license)
-  - bidirectional module connecting the knowledge graph contributions in our ecosystem with the plain-text-focussed contributions in ActivityPub world
+  - Bidirectional module connecting the knowledge graph contributions in our ecosystem with the plain-text-focussed contributions in ActivityPub world
 
 These pieces of software will be used:
 
 - [Nanopub Query](https://github.com/knowledgepixels/nanopub-query) (AGPL license)
-  - implements the query services of the Knowledge Space vision above
-  - will be used for the API parts of the demo for this project
+  - Implements the query services of the Knowledge Space vision above
+  - Will be used for the API parts of the demo for this project
 - [Nanodash](https://github.com/knowledgepixels/nanodash) (AGPL license)
-  - is a graphical user interface to deal with nanopublications
-  - will be used for the UI parts of the demo for this project
+  - Is a graphical user interface to deal with nanopublications
+  - Will be used for the UI parts of the demo for this project
 - [nanopub-java](https://github.com/Nanopublication/nanopub-java) (MIT license)
-  - a stable Java library to deal with nanopublications
-  - includes the generation of hash-based identifiers ([Trusty URIs](https://trustyuri.net/)) and digital signatures
-  - all tools above build upon it
+  - A stable Java library to deal with nanopublications
+  - Includes the generation of hash-based identifiers ([Trusty URIs](https://trustyuri.net/)) and digital signatures
+  - All tools above build upon it
 
 This piece of software will be made obsolete by this project:
 
