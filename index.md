@@ -16,7 +16,7 @@ This project takes the existing nanopublication ecosystem as a starting point:
 
 - [Nanopub Monitor](https://monitor.knowledgepixels.com/) shows the services in the current nanopublication ecosystem network
 
-This project will make this ecosystem **scalable, trust-aware, and resilient**.
+This project will make this ecosystem **scalable, trust-aware, and resilient**. In addition, we focus on the social aspects of knowledge, and connect to existing projects in this area, such as [Sensemaking Networks](https://paragraph.xyz/@sense-nets/2-project-plan).
 
 
 ## Software
