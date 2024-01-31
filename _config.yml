@@ -13,3 +13,4 @@ plugins:
 - jekyll-remote-theme
 title: "Nanopub Space"
 description: "Nanopub Space: project application for NGI Zero Core"
+logo: logo.svg
