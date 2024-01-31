@@ -14,3 +14,4 @@ plugins:
 title: "Nanopub Space"
 description: "Nanopub Space: project application for NGI Zero Core"
 logo: logo.svg
+footer: "This page is provided by <a href=\"https://knowledgepixels.com\">Knowledge Pixels</a>"
