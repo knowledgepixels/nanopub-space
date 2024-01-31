@@ -12,7 +12,9 @@ The Nanopub Space is a first step towards the implementation of the vision of a 
 
 This project takes the existing nanopublication ecosystem as a starting point:
 
-- [Nanopub Monitor](https://monitor.knowledgepixels.com/)
+- [Nanopublications](https://nanopub.net/) are a concept and technology for sharing provenance-aware knowledge graph snippets
+
+- [Nanopub Monitor](https://monitor.knowledgepixels.com/) shows the services in the current nanopublication ecosystem network
 
 This project will make this ecosystem **scalable, trust-aware, and resilient**.
 
@@ -37,6 +39,13 @@ These pieces of software will be used:
 - [nanopub-java](https://github.com/Nanopublication/nanopub-java) (MIT license)
   - a stable Java library to deal with nanopublications
   - includes the generation of hash-based identifiers ([Trusty URIs](https://trustyuri.net/)) and digital signatures
+
+This piece of software will be made obsolete by this project:
+
+- [Nanopub Server](https://github.com/tkuhn/nanopub-server) (MIT license)
+  - The publishing/lookup service of the existing nanopublication ecosystem
+  - Works but is neither scalable, trust-aware, nor resilient
+  - To be gradually replaced by the Nanopub Registry above
 
 
 ## Organization
